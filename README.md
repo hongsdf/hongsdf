@@ -22,5 +22,7 @@
 
 
 
+## 블로그
+https://velog.io/@tyuz32450
 ## 노션사이트 (알고리즘)
 https://confusion-leaf-432.notion.site/3dd6486bc1fa4b169ee61c4d1369c681

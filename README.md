@@ -17,7 +17,7 @@
 | Plugin | README |
 | ------ | ------ |
 | 알고리즘 학습 | https://github.com/hongsdf/al |
-| Springboot_JPA 프로젝트(Blog) | https://github.com/hongsdf/Blog  |
+| Springboot_JPA 프로젝트(Blog) | https://github.com/hongsdf/Blog_JPA  |
 | Share_in_jeju 프로젝트 | https://github.com/hongsdf/share_in-jeju |
 | 채팅프로그램 프로젝트 | https://github.com/hongsdf/Chatting_application |
 
